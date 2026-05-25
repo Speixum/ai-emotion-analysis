@@ -1,0 +1,16 @@
+# 表情识别核心
+deepface==0.0.93
+# 图像处理
+opencv-python==4.9.0.80
+# 通义千问API
+dashscope==1.20.1
+# 深度学习框架（DeepFace依赖）
+tensorflow==2.15.0
+# 数值计算
+numpy==1.26.4
+# GUI界面
+pyqt5==5.15.10
+# 图表绘制
+matplotlib==3.8.4
+# 语音播报
+pyttsx3==2.90
